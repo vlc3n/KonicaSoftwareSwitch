@@ -1,0 +1,32 @@
+10 Hex 02 makes a generic (Muratec) a Konica important so drivers can pick up all device options
+12 Addition of Authentication Device
+25 FW Version Function Setting
+33 Renders some functions which were available when both administrator authentication and key counter were provided with when using the vendor , available only with admin authentication
+49 Upper limit of copies that can be input through the control panel setting
+51 Settings for Life warning/replace display of units
+69 When printing using manual bypass in custom size allows for printing only with a print driver ------- settings
+70 Alarm sound and screen display for communication errors due to CSRC causes
+71 Hide the colour copy option
+72 Import/Export function of the address book through usb memory
+121 Operation when a double feed is detected when adf is used
+124 Function to restrict the file type of TX fax
+135 Setting for the ID length of the HID Prox card
+143 Expansion setting of the touch panel sensitive area when web browser function is used
+145 Switching to auto detection for paper size in manual bypass tray
+146 Setting for enabling use of non image area erase ,centering, and original size when book original is used in fax/scan mode
+151 Setting for displaying or hiding the near empty display time
+152 The email body print settings of the email RX print
+155 Validation/invalidation of the debug setting of the log
+157 Low Power Mode Settings
+159 HEX 08 Keeps SSD from going to sleep causing freezing issues.
+163 Setting for the auto execution of self diagnosis (full)
+172 HEX 05 Hide Marketplace app
+192 Sets whether to enable Android or iOS function
+203 Setting to automatically change login authorization to a second user when the second user
+attempts card authentication after a first user has been authenticated through card authentication
+206 Setting whether to enable coverage counter
+219 Hex 00: SMB 1.0/2.0
+219 Hex 04: Only SMB 2.0
+219 Hex 08 Suppot for DHCP Option 81
+227 Setting for the display of consumable level and warning (Operatino panel,PSWC,Fiery)
+230 Setting for the display of consumable level and warning (PSES,MIB,PrintFleet,SiteAudit)
