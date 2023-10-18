@@ -1,5 +1,6 @@
 10 Hex 02 makes a generic (Muratec) a Konica important so drivers can pick up all device options
 12 Addition of Authentication Device
+17 Hex 00 Disabled (Default), Hex 20 Enabled. Automatically create login user's "scans" DFS folder path
 25 FW Version Function Setting
 33 Renders some functions which were available when both administrator authentication and key counter were provided with when using the vendor , available only with admin authentication
 49 Upper limit of copies that can be input through the control panel setting
